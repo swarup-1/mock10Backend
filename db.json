@@ -1,5 +1,6 @@
 {
     "users": [
-      { "id": 1, "username":"sk", "email":"sk@gmail.com", "password":"sk"}
+      
+      {"id": 1680162561428, "name": "Swarup Kadoli", "email": "eve.holt@reqres.in", "password": "cityslicka","transcation":[]}
     ]
   }
